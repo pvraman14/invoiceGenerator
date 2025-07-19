@@ -1,6 +1,6 @@
 import React from 'react'
 import RndWrapper from './components/Rnd-wrapper/Rnd-wrapper';
-import CustomInput from './components/CustomInput'
+import CustomInput from './components/common-components/CustomInput/CustomInput'
 
 const InvoiceGen = () => {
   return (
